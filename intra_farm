@@ -1,7 +1,7 @@
 echo number:
 read n
 cd /tmp
-git clone vogsphere@vogsphere.42.fr:intra/2016/activities/42_commandements/hmassonn$n toto$n
+git clone vogsphere@vogsphere.42.fr:intra/2016/activities/42_commandements/prossi$n toto$n
 cd toto$n
 cp /tmp/rendu .
 git add rendu
